@@ -1,5 +1,5 @@
 #define IR1 0  
-#define IR2 14  
+#define IR2  13  
 
 #define   IR3 12
 #define BLYNK_PRINT Serial
